@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-05T15:33:49 IST" name="NaukriAutomation" finished-at="2023-07-05T15:34:14 IST" duration-ms="25010">
+  <suite name="NaukriAuto" duration-ms="31937" started-at="2023-07-05T15:50:05 IST" finished-at="2023-07-05T15:50:37 IST">
     <groups>
     </groups>
-    <test started-at="2023-07-05T15:33:49 IST" name="Test" finished-at="2023-07-05T15:34:14 IST" duration-ms="25010">
+    <test name="Test" duration-ms="31937" started-at="2023-07-05T15:50:05 IST" finished-at="2023-07-05T15:50:37 IST">
       <class name="resumeautomation.naukritestcases.ResumeUploadData">
-        <test-method is-config="true" signature="Browser()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@291caca8]" started-at="2023-07-05T15:33:49 IST" name="Browser" finished-at="2023-07-05T15:33:58 IST" duration-ms="9000" status="PASS">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@5cb9f472]" name="Browser" is-config="true" duration-ms="13268" started-at="2023-07-05T15:50:05 IST" finished-at="2023-07-05T15:50:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Browser -->
-        <test-method signature="naukri()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@291caca8]" started-at="2023-07-05T15:33:58 IST" name="naukri" finished-at="2023-07-05T15:34:14 IST" duration-ms="15534" status="PASS">
+        <test-method status="PASS" signature="naukri()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@5cb9f472]" name="naukri" duration-ms="18109" started-at="2023-07-05T15:50:18 IST" finished-at="2023-07-05T15:50:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- naukri -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@291caca8]" started-at="2023-07-05T15:34:14 IST" name="closeBrowser" finished-at="2023-07-05T15:34:14 IST" duration-ms="428" status="PASS">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:resumeautomation.naukritestcases.ResumeUploadData@5cb9f472]" name="closeBrowser" is-config="true" duration-ms="487" started-at="2023-07-05T15:50:36 IST" finished-at="2023-07-05T15:50:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- resumeautomation.naukritestcases.ResumeUploadData -->
     </test> <!-- Test -->
-  </suite> <!-- NaukriAutomation -->
+  </suite> <!-- NaukriAuto -->
 </testng-results>
