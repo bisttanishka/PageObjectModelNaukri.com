@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="resumeautomation.naukritestcases.ResumeUploadData">
+      <class name="seleniumtopics.SslCertificateChromeAndFireFox">
         <methods>
-          <include name="Browser"/>
-          <include name="naukri"/>
-          <include name="closeBrowser"/>
+          <include name="launchSSLEdge"/>
         </methods>
-      </class> <!-- resumeautomation.naukritestcases.ResumeUploadData -->
+      </class> <!-- seleniumtopics.SslCertificateChromeAndFireFox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
