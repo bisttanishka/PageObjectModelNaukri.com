@@ -40,7 +40,7 @@ public void launchSSLInChrome() throws InterruptedException {
 	Thread.sleep(10000);
 	driver.close();
 	
-}
+}   
 @Test (priority=2)
 public void launchSSLEdge() throws InterruptedException {
 	
